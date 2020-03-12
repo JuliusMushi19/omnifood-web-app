@@ -25,7 +25,7 @@ The goal of this project is to show my portifolio to the world.
 * PHP
 
 ## Setup
-How did I setup my local environement?:
+My local environement:
 * I created folder structure with two folders; resources and vendors. Resources folder contained files created by me. Vendors folder contained files I downloaded from the internet.
 
 ## Features

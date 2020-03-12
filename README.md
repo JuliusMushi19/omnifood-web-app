@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+(./img/Omnifood.PNG)
 
 ## Technologies
 * Brackets
@@ -29,7 +29,7 @@ How did I setup my local environement:
 * I created folder structure with two folders; resources and vendors. Resources folder contained files created by me. Vendors folder contained files I downloaded from the internet.
 
 ## Features
-List of features ready and TODOs for future development
+Features ready:
 * Send email and return a success message to the website about contact form submission.
 
 To-do list:

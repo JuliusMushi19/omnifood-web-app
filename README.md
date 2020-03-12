@@ -42,6 +42,6 @@ Project is: _finished_
 Project based on online course I took with Udemy.
 
 ## Contact
-Created by Julius Mushi (julius.mushi@gmail.com) - feel free to contact me!
+Created by Julius Mushi - feel free to contact me!
 
 

@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-(./resources/img/Omnifood.PNG)
+!(./resources/img/Omnifood.PNG)
 
 ## Technologies
 * Brackets
